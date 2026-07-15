@@ -1,2 +1,2 @@
 # Academic Pages
-Modificaciòn de archibo para practica
+Modificaciòn de archibo para practica mantenienddo este
